@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.mixcorporation.www" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">   
+<widget id="com.pgb.brewapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0">  
     <name>For You</name>
     <description>La vidéo en plus</description>
     <author email="for-you@mixcorporation.com" href="http://www.mixcorporation.com">MIXCORPORATION</author>
