@@ -7,10 +7,6 @@
     <feature name="http://api.phonegap.com/1.0/device" />
     <feature name="http://api.phonegap.com/1.0/network"/>
     <feature name="http://api.phonegap.com/1.0/notification"/>	
-    <feature name="NetworkStatus">
-                <param name="android-package" value="org.apache.cordova.networkinformation.NetworkManager"/>
-</feature>
-	 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <preference name="phonegap-version" value="cli-6.5.0" />
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
     
