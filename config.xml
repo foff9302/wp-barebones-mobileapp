@@ -14,11 +14,7 @@
     
     <plugin name="cordova-plugin-network" />
     <plugin name="cordova-plugin-media" />
-    <plugin name="cordova-plugin-dialogs" />
-    <plugin name="cordova-plugin-statusbar" />
-    <plugin name="cordova-plugin-splashscreen" />
-   <plugin name="cordova-plugin-network-information" />
-	
+    <plugin name="cordova-plugin-notification" />
 
 	<icon src="icon.png" />
 	
