@@ -11,7 +11,10 @@
     <preference name="phonegap-version" value="cli-6.5.0" />
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
     
-	<gap:plugin name="org.apache.cordova.network-information" source="npm"/>
+	<plugin name="cordova-plugin-dialogs" />
+	<plugin name="cordova-plugin-statusbar" />
+        <plugin name="cordova-plugin-splashscreen" />
+        <plugin name="cordova-plugin-network-information" />
 	
 	<icon src="icon.png" />
 	
