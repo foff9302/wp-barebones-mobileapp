@@ -53,7 +53,7 @@
 
     
 
-<content src="www.mixcorporation.com"/>
+<content src="http://www.mixcorporation.com"/>
     <access origin="*" subdomains="true" />
 	  <allow-intent href="http://*/*"/>
 
